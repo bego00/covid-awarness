@@ -1,1 +1,2 @@
-# covid-awarness
+# Covid-Awareness
+Raise individuals' awareness
